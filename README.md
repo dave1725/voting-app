@@ -19,3 +19,25 @@ Russians, ”were able to gain access to restricted elements of election infrast
 Now, 2016 U.S presidential election was rigged by the Russian in many other ways too.  But, this was one of the most critical one. This problem was due to the mutable nature of the backend database of the voting system allowing manipulation of data.
 
 So, now imagine if the backend was immutable allowing no manipulation at all by anyone. That’s where blockchain comes into picture. By using blockchain, we store the votes in the blockchain network where once a user votes his candidate his vote is stored permanently in the blockchain. By this way, we will be able to perfectly make the backend unalterable.
+
+## TECH STACK USED
++ReactJS
+	ReactJS framework has been used for frontend development. The reason being, composition i.e, it’s component based architecture allows website to be more dynamic(having less reloads).
+
++ExpressJS
+	ExpressJS framework has been used for backend development. It’s used to create API endpoint. It allows effective communication from frontend to backend.
+ 
++MySQL
+	MySQL database has been used for storing voter’s Aadhar card number and name. Also to update the voting status of the user.
+
++Axios
+	Axios module has been used for communicating with the backend from frontend(ReactJS).
+
++Solidity
+	Solidity programming language has been used for coding the smart contract.
+
++ThirdWeb
+	Thirdweb service has been used to deploy and interact with the smart contract in the blockchain.
+
+
+
