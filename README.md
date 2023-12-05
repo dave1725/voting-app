@@ -52,9 +52,32 @@ Make sure to have NodeJS latest version installed.
 
 3)Blockchain requirements: Thirdweb 
 	
- 	npm install thirdweb,@thirdweb-dev/react @thirdweb-dev/sdk
+ 	npm install thirdweb,@thirdweb-dev/react @thirdweb-dev/sdk ethers@5
 
 4)MetaMask Wallet
+
+## Running the Project
++ Clone the repository
+
+	git clone https://github.com/dave1725/voting-app.git
+
++ Navigate to backend folder then
+
+		npm start
+
++ Navigate to frontend folder then
+
+		npm start
+
++ Navigate to blockchain folder then
+
+		npx thirdweb deploy
+
++ Then make sure to have your database active and match the names corresponding to the names in server.js [ Recommended to use XAMPP ]
+
+**TROUBLESHOOT**
+1-> npm audit fix --force
+2-> https://stackoverflow.com/questions/64557638/how-to-polyfill-node-core-modules-in-webpack-5
 
 ## References
 + Decentralized Voting System using Blockchain - GeeksforGeeks
