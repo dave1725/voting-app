@@ -56,3 +56,12 @@ Make sure to have NodeJS latest version installed.
 
 4)MetaMask Wallet
 
+## References
++ Decentralized Voting System using Blockchain - GeeksforGeeks
++ Blockchain-Based E-Voting System | IEEE Conference Publication | IEEE Xplore
++ The-Future-of-Electronic-Voting-System-Using-Blockchain.pdf (researchgate.net)
++ Sensors | Free Full-Text | Blockchain for Electronic Voting System—Review and Open Research Challenges (mdpi.com)
++ DEMO: A Secure Voting System for Score Based Elections | Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security
+
+## License
+This project is licensed under MIT license - Kindly refer the LICENSE file for details.
