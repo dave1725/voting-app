@@ -1,5 +1,5 @@
 # PEGASUSX : NEXT GEN VOTING SYSTEM
-# INTRODUCTION
+## INTRODUCTION
 PegasusX is a web-app voting system prototype empowered by blockchain technology.
 But what is a blockchain? And why blockchain?
 
