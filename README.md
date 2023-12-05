@@ -59,7 +59,7 @@ Make sure to have NodeJS latest version installed.
 ## Running the Project
 + Clone the repository
 
-	git clone https://github.com/dave1725/voting-app.git
+		git clone https://github.com/dave1725/voting-app.git
 
 + Navigate to backend folder then
 
